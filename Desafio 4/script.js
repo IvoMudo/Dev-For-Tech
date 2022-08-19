@@ -1,4 +1,4 @@
-//Desafio 4: Triangulo
+//Desafio 4: Desenhar triangulo
 
 const triangleBase = Number(prompt('Qual o tamanho da base do triâsngulo?'))
 

@@ -2,7 +2,7 @@
 
 const triangleBase = Number(prompt('Qual o tamanho da base do triângulo?'))
 
-const triangleChar = prompt('De qual caractere o tringulo será feito?', '*')
+const triangleChar = prompt('De qual caractere o triângulo será feito?', '*')
 
 for (let i = 0; i < triangleBase; i++) {
     let row = '';
